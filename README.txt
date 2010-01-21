@@ -1,3 +1,23 @@
+Sharetronix Opensource Japanese
+
+-------------------------
+This is a working repo for translating Sharetronix Opensource. The
+original version is http://sharetronix.com/opensource/ I will
+translate it to Japanese here and feedback all to upstream.
+-------------------------
+
+-------------------------
+これは、Sharetronix Opensource の日本語版作業用リポジトリです。ここで
+日本語化の作業をして開発元にフィードバックします。
+-------------------------
+
+
+
+
+Below is original README.txt
+----------------------------------------------------------------
+
+
 Welcome to Sharetronix Opensource
 -------------------------
 Sharetronix Opensource is a multimedia microblogging platform. It helps
