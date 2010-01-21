@@ -1,0 +1,43 @@
+Sharetronix 1.0.4
+
+    * Added global RSS feed with all network posts
+    * Fixed some browser specific CSS bugs
+    * Fixed some mistaken texts in the english language files
+    * Fixed some bugs in the Installation wizard
+
+
+Sharetronix 1.0.3
+
+    * Email confirmation requirement is now optional in Administration
+    * Fixed some browser specific CSS bugs
+    * Fixed a bug in the RSS/Atom parser
+    * Fixed some bugs in the Chinese characters support
+    * Fixed some mistaken texts in the english language files
+    * Fixed some bugs in the Installation wizard
+    * Fixed a bug in the mobile interface
+
+Sharetronix 1.0.2
+
+    * Chinese support for network name and group name
+    * Fixed some bugs with #hashtags and @users inside posts and comments
+    * Fixed some bugs with Saved Searches
+    * Fixed some troubles when running on windows server
+    * Fixed a bug with cookies when using localhost
+    * Fixed a bug with cookies when using an ip address for site url
+    * Fixed some bugs in the Installation wizard
+    * Fixed some wrong/dead links in the templates
+    * Fixed some mistaken texts in the english language files
+    * Fixed some mistaken links in the mobile interface
+    * Fixed a bug in Home page design on Internet Explorer
+
+Sharetronix 1.0.1
+
+    * Fixed a bug in Registration
+    * Fixed a bug in Settings
+    * Fixed some bugs in the Installation wizard
+    * Fixed some bugs in the template engine
+
+Sharetronix 1.0.0
+
+    * Everything
+
